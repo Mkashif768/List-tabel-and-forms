@@ -1,0 +1,134 @@
+/*  UNORDERED LIST */
+/* ul{
+    list-style-type: square;
+} */
+
+/*  ORDERED LIST */
+/* ol{
+    list-style-type: decimal-leading-zero;
+} */
+
+/* IMAGES FOR BULLETS */
+/* ul{
+    list-style-image: url('./img/icons8-arrow-48.png');
+}
+li{
+    margin: 110px 0px 0px 0px;
+} */
+
+/* LIST STYLE POSITION */
+/* ul.illuminations {
+    list-style-position: outside;
+}
+    ul.season {
+    list-style-position: inside;
+} */
+
+/* LIST SHORHAND */
+/* ul{
+    list-style: inside square;
+} */
+
+/* TABLE PROPERTIES */
+/* table{
+    width: 600px;
+    padding: 20px;
+    text-transform: uppercase;
+    border-top: 1px solid red;
+    border-bottom: 1px solid green;
+} */
+/* table, td, th{
+    border: 1px solid red;
+    border-collapse: collapse;
+    text-align: left;
+} */
+/* table{
+    background-color: yellow;
+} */
+/* tr:hover{
+    background-color: aqua;
+}
+td{
+    padding: 10px;
+}
+
+.even{
+    background-color: black;
+    color: white;
+} */
+
+/* EMPTY CELLS */
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;
+}
+    table{
+    empty-cells: show;
+    empty-cells: show;
+} */
+
+/* GAPS BETWEEN CELLS */
+/* td {
+    background-color: #0088dd;
+    padding: 15px;
+    border: 2px solid #000000;
+}
+    table{
+    border-collapse: collapse;
+} */
+
+/* STYLING FOEMS  */
+#ln{
+    margin-top: 5px; 
+}
+/* input{
+    font-size: xx-large;
+    color: red;
+    background-color: aqua;
+}
+/* input{
+    border: 5px solid red;
+    border-radius: 10px;
+} 
+in :hover{
+    background-color: aqua;
+}
+#ln :focus{
+    border: 5px solid red; */
+
+    /* #email{
+        background-image: url('./img/email.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding-left: 20px;
+    }
+    #gethub{
+        background-image: url('./img/icons8-github-48.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding-left: 20px;
+    } */
+
+    /* STYKING FIELDSET AND LEGEND */
+    /* fieldset {
+        width: 350px;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: right;
+    }
+        legend {
+        background-color: #efefef;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 10px 20px;
+        text-align: left;
+        text-transform: uppercase;
+    } */
+
+    /* CURSOR STYLES */
+    #submit-btn:hover{
+        cursor: wait;
+        background-color: red;
+    }
+     
